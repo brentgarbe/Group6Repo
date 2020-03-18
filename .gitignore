@@ -5,6 +5,8 @@ __pycache__/
 
 api_testing.ipynb
 
+#Added by Jason
+config.py
 
 # C extensions
 *.so
